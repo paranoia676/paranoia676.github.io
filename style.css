@@ -224,6 +224,10 @@ body::after {
     background: linear-gradient(135deg, #ff6b6b, #ff8e53);
 }
 
+.personal {
+    background: linear-gradient(135deg, #9b59b6, #8e44ad);
+}
+
 .footer {
     text-align: center;
     animation: fadeIn 1s ease-out 0.5s backwards;
